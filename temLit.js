@@ -4,7 +4,7 @@
 
 ////////////////////////Pt. 1////////////////////////
 // create a var that accepts a first name as a prompt
-
+1
 
 // create a var that accepts a last name as a prompt
 
